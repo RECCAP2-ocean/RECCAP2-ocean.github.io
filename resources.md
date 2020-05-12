@@ -1,6 +1,6 @@
 ---
 title: Resources
-bigimg: /img/banners/mixed-deepblue.png
+bigimg: /img/banners/sa_agulhas_pancakeslush.jpg
 ---
 
 
