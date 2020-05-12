@@ -1,4 +1,4 @@
-![RECCAP2 logo](path_to_logo)
+![RECCAP2 logo](img/logo.png)
 
 ## Welcome to the RECCAP2 ocean page
 
