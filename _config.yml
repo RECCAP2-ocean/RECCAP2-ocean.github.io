@@ -3,14 +3,13 @@
 url: "http://RECCAP2-ocean.github.io"
 baseurl: ""
 
-title: RECCAP2 : OCEAN
+title: RECCAP2-OCEAN
 description: REgional Carbon Cycle Assessment and Processes - ocean 
 
 # List of links in the navigation bar
 navbar-links:
-  About RECON:
+  About:
     - What we do: ""
-    - Join us: "join"
     - Contact: "contact"
     - Code of Conduct: "CODE_OF_CONDUCT"
   News: "blog"
@@ -25,7 +24,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: "RECCAP2 - ocean"
-  email: "thibautjombart@gmail.com"
+  email: ""
   github: RECCAP2-ocean/RECCAP2-ocean.github.io
   facebook: yourname  # eg. daattali
   twitter: yourname   # eg. daattali
