@@ -11,10 +11,10 @@ navbar-links:
   About:
     - What we do: ""
     - Contact: "contact"
-    - Code of Conduct: "CODE_OF_CONDUCT"
+    # - Code of Conduct: "CODE_OF_CONDUCT"
   News: "blog"
   People: "people"
-  Projects: "projects"
+  # Projects: "projects"
   Resources: "resources"
   Events: "events"
 
