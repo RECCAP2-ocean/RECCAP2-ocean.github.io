@@ -100,7 +100,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #1f374d;
+  background-color: #1f374d;
   border-bottom: 1px solid #17232e;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -113,7 +113,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 730;
   color: #fafafa;
 }
 
@@ -195,12 +195,12 @@ img {
 }
 
 .navbar-custom  .navbar-toggle {
-  border-color: #294481;
+  border-color: #1f374d;
 }
 
 .navbar-custom  .navbar-toggle:hover,
 .navbar-custom  .navbar-toggle:focus {
-  background: #294481;
+  background: #1f374d;
 }
 
 .navbar-custom .navbar-toggle .icon-bar {
@@ -208,7 +208,7 @@ img {
 }
 
 .navbar-custom .navbar-collapse {
-  border-color: #294481;
+  border-color: #1f374d;
 }
 
 /* Multi-level navigation links */
@@ -229,15 +229,15 @@ img {
 }
 .navbar-custom .nav li .navlinks-children a:hover,
 .navbar-custom .nav li .navlinks-children a:focus  {
-  background: #34539c;
+  background: #1f374d;
 }
 
 .navbar-custom .nav li.show-children a.navlinks-parent {
-  background: #294481;
+  background: #1f374d;
 }
 
 .navbar-custom .nav .navlinks-container:hover {
-  background: #294481;
+  background: #1f374d;
 }
 
 .navbar-custom .nav li a.navlinks-parent:hover,
@@ -249,7 +249,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #314f96;
+  background: #1f374d;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -274,7 +274,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #294481;
+    border: 1px solid #1f374d;
     border-width: 0 1px 1px;
   }
 }
