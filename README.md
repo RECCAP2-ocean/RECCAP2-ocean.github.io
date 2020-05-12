@@ -1,4 +1,4 @@
-![RECCAP2 logo](img/logo.png)
+![RECCAP2 logo](path_to_logo)
 
 ## Welcome to the RECCAP2 ocean page
 
@@ -20,7 +20,7 @@ Note that the template was designed in a way such that it changes drastically wh
 
 ## How to add new pages
 
-To add a new page at the URL `http://reconhub.github.io/example`:
+To add a new page at the URL `http://RECCAP2-ocean.github.io/example`:
 
 - Add a file named `example.md` to the root directory of this repo
 - The file **must** begin with two lines of three dashes (aka YAML front matter) in order for this new page to use the template. In other words, each file must begin with the following two lines
@@ -35,8 +35,8 @@ To add a new page at the URL `http://reconhub.github.io/example`:
   - `title`: Gives a nice big title to the page
   - `subtitle`: A subtitle to the page
   - `bigimg`: The path to an image that will be used as a big wide "header image". This path has to point to a local file in this repository, it cannot point to an image on the web
-  - You can see the [`projects`](https://raw.githubusercontent.com/reconhub/reconhub.github.io/2d944bfa887121b8e4f0d88df03a23e424bd1e79/projects.md) page to see an example of using the `title` and `bigimg` parameters
-- If you want to include a list of items on the page, where each item has an image, a short description, and some links, you need to define the items of the list in the YAML front matter and then include `{% include list-circles.html items=page.mylist %}` in the page wherever you want to show the list. Any images will automatically be cropped to be circular, and there wil be a maximum of 4 items per row. See the [`people`](https://raw.githubusercontent.com/reconhub/reconhub.github.io/89dbea917f4223d768e51dfc6e825b974144dea4/people.md) page for an example of how to include a nice list.
+  - You can see the [`resources`](https://raw.githubusercontent.com/RECCAP2-ocean/RECCAP2-ocean.github.io/master/resources.md) page to see an example of using the `title` and `bigimg` parameters
+- If you want to include a list of items on the page, where each item has an image, a short description, and some links, you need to define the items of the list in the YAML front matter and then include `{% include list-circles.html items=page.mylist %}` in the page wherever you want to show the list. Any images will automatically be cropped to be circular, and there wil be a maximum of 4 items per row. See the [`people`](https://raw.githubusercontent.com/RECCAP2-ocean/RECCAP2-ocean.github.io/master/people.md) page for an example of how to include a nice list.
 
 ## How to add new blog posts (aka news)
 

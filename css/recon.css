@@ -2,6 +2,11 @@
 
 /* Example: change the navigation bar background to orange (this code is documented out) */
 .navbar-custom {
-  background: #5562a1;
+  background: #1f374d;
+  border-bottom: #17232e;
 }
 
+.navbar-custom .navbar-brand, .navbar-custom .nav li a {
+    font-weight: 700;
+    color: #fafafa;
+}
