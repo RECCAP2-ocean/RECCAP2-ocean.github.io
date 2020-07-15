@@ -3,6 +3,6 @@
 
 <img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 
-# Welcome to RECCAP2-ocean
+# Welcome to the ocean chapter of RECCAP2*!
 
-The REgional Carbon Cycle Assessment and Processes-2 (RECCAP-2) 
+*REgional Carbon Cycle Assessment and Processes 2 

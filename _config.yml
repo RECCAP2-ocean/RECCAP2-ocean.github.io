@@ -3,7 +3,7 @@
 url: "http://RECCAP2-ocean.github.io"
 baseurl: ""
 
-title: RECCAP2-OCEAN
+title: RECCAP2-ocean
 description: REgional Carbon Cycle Assessment and Processes - ocean 
 
 # List of links in the navigation bar
@@ -20,9 +20,9 @@ navbar-links:
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "RECCAP2 - ocean"
+  name: "RECCAP2-ocean"
   email: ""
-  github: RECCAP2-ocean/RECCAP2-ocean.github.io
+  github: RECCAP2-ocean
   facebook: yourname  # eg. daattali
   twitter: yourname   # eg. daattali
 
