@@ -11,9 +11,9 @@ navbar-links:
   About: ""
   News: "blog"
   Materials:
-    Protocols: "people"
-    Scripts: "scripts"
-    Data: "data"
+    - Protocols: "people"
+    - Scripts: "scripts"
+    - Data: "data"
   Organization: "organization"
   Contact: "contact"
 
