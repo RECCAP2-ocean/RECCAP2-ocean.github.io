@@ -8,7 +8,7 @@ description: REgional Carbon Cycle Assessment and Processes - ocean
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About: "index"
   News: "blog"
   Resources:
     - Protocols: "protocols"
