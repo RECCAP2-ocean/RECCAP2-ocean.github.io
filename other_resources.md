@@ -1,6 +1,6 @@
 ---
 title: Other Resources
-bigimg: /img/banners/devel.jpg
+bigimg: /img/banners/mourad-saadi-6IRusfuPBJM-unsplash.jpg
 ---
 
 # Ocean regions

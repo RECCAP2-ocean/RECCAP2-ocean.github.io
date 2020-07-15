@@ -1,5 +1,6 @@
 ---
 title: Publications
+bigimg: /img/banners/mourad-saadi-6IRusfuPBJM-unsplash.jpg
 ---
 
 # Synthesis papers

@@ -1,6 +1,6 @@
 ---
 title: Protocols
-bigimg: /img/banners/devel.jpg
+bigimg: /img/banners/mourad-saadi-6IRusfuPBJM-unsplash.jpg
 ---
 
 # Our internal guidelines
