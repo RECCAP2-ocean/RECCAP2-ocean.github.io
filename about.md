@@ -1,21 +1,21 @@
 ---
-title: What is RECCAP2?
+<img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 ---
 
-<img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
+# What is RECCAP2?
 
-# Overview
+## Overview
 The overall aim of RECCAP2 is to support the [Global Carbon Project](https://www.globalcarbonproject.org/) and the stocktaking of greenhouse gases by providing a reliable scientific basis for the transport of carbon between land, ocean and atmosphere.
 
 Within the ocean-specific part of RECCAP2, a global consortium of partners aims to better quantify and understand the CO2 fluxes into and out of the ocean, the associated changes in ocean carbon storage beneath the sea surface, as well as the role of ocean’s biological pump.
 
-# RECCAP2-ocean
+## RECCAP2-ocean
 Time is ripe for a major contribution of the ocean carbon cycle community to RECCAP2! Taking advantage of the rapid recent developments with regard to data products and modeling, the ocean-specific objectives within RECCAP2 are to:
 - quantify and assess the ocean carbon sources and sinks and the changes in the ocean’s interior carbon stocks for the past three decades using a combination of observations and model-based constraints
 - determine and assess the magnitude of the variability of the ocean carbon sink and storage including the processes driving these variations
 - quantify the fluxes and discuss the processes associated with the biological carbon pump (including dissolved organic carbon) in the ocean from the regional to the global scale
 
-# Background
+## Background
 There is an increasing demand for scientific support on climate-related decisions, in particular for providing societies and policy-makers with reliable and up-to-date information about atmospheric greenhouse gas (GHG) emissions and natural sinks. The [Global Carbon Project]( http://www.globalcarbonproject.org/) now reports annually on the evolution of CO2 sources and sinks, their uncertainties and the resulting Global Carbon Budget, in phase with the United Nations Framework Convention on Climate Change (UNFCCC) annual Conference of the Parties (COP).
 Global stocktaking as defined by the Paris Agreement further requires information about regional GHG budgets that should be consistent with the global budgets and regularly updated.
 

@@ -3,7 +3,7 @@ title: Protocols
 bigimg: /img/banners/devel.jpg
 ---
 
-# Our guidelines
+# Our internal guidelines
 
 Model and data product development and intercomparison within RECCAP2-ocean are facilitated by using shared protocols.
 
