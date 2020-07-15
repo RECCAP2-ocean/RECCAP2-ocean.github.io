@@ -1,7 +1,6 @@
 ---
-title: Data
-bigimg: /img/banners/mourad-saadi-6IRusfuPBJM-unsplash.jpg
 ---
+<img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 
 # Data products
 

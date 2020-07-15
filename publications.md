@@ -1,7 +1,6 @@
 ---
-title: Publications
-bigimg: /img/banners/mourad-saadi-6IRusfuPBJM-unsplash.jpg
 ---
+<img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 
 # Synthesis papers
 RECCAPv2 aims to publish its finding in a series of papers. The following are planned right now. Please contact the lead authors if you want to become engaged in this work.

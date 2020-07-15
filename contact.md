@@ -1,8 +1,9 @@
 ---
-title: Get in touch!
 ---
+<img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 
-# Specific contacts
+
+# Get in touch!
 
 Do you have a question about RECCAP-ocean and want to get in touch? Feel free to email us.
 
