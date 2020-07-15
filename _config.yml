@@ -10,9 +10,12 @@ description: REgional Carbon Cycle Assessment and Processes - ocean
 navbar-links:
   About: ""
   News: "blog"
-  People: "people"
-  Resources: "resources"
-  Events: "events"
+  Materials:
+    Protocols: "people"
+    Scripts: "scripts"
+    Data: "data"
+  Organization: "organization"
+  Contact: "contact"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
