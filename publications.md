@@ -6,7 +6,7 @@
 RECCAPv2 aims to publish its finding in a series of papers. The following are planned right now. Please contact the lead authors if you want to become engaged in this work.
 
 ## Global perspective
-Mean and variability of carbon air-sea fluxes, transport and storage
+*Mean and variability of carbon air-sea fluxes, transport and storage*  
 Lead authors: Tim DeVries, Rik Wanninkhof
 
 The seasonal cycle in the global ocean: a window into the future
