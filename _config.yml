@@ -15,6 +15,7 @@ navbar-links:
     - Scripts: "scripts"
     - Data: "data"
     - Others: "other_resources"
+  Publications: "publications"
   Organization: "organization"
   Contact: "contact"
 
