@@ -1,7 +1,7 @@
 ---
+title: What is RECCAP2?
 ---
-
-# What is RECCAP2?
+# Overview
 The overall aim of RECCAP2 is to support the [Global Carbon Project](https://www.globalcarbonproject.org/) and the stocktaking of greenhouse gases by providing a reliable scientific basis for the transport of carbon between land, ocean and atmosphere. Within the ocean-specific part of RECCAP2, a global consortium of partners aims to better quantify and understand the CO2 fluxes into and out of the ocean, the associated changes in ocean carbon storage beneath the sea surface, as well as the role of ocean’s biological pump.
 
 # RECCAP2-ocean
