@@ -8,13 +8,9 @@ description: REgional Carbon Cycle Assessment and Processes - ocean
 
 # List of links in the navigation bar
 navbar-links:
-  About:
-    - What we do: ""
-    - Contact: "contact"
-    # - Code of Conduct: "CODE_OF_CONDUCT"
+  About: ""
   News: "blog"
   People: "people"
-  # Projects: "projects"
   Resources: "resources"
   Events: "events"
 
