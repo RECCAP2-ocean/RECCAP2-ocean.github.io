@@ -10,3 +10,4 @@ R/.RData
 *.out
 *.toc
 **/.DS_Store
+.Rproj.user
