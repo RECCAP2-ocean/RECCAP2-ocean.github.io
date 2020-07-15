@@ -16,17 +16,16 @@ The international collaboration is co-led by
 # Timeline
 (last updated, April 2020)
 
-| Due date          | Task | People | Status |
-|----|
-|June 2019          | finalize scoping and author document    | NG, JH, MI  | &#x2714; |
-|June/July 2019     | invite core chapter team leaders        |NG, JH, MI   |         &#x2714︎
-|October/November   | data repositories identified            |NG           |                 &#x2714︎
-|Feb 2020           | Ad hoc meeting at Ocean Sciences        |all authors  |         &#x2714︎
-|April 2020         | finalize protocols, data policies |NG, JH, MI|         &#x2714︎
-|May 2020           | global/regional teams assembled, draft outlines |all LA|,
-preliminary authorship table
-30 September  2020|    data submission |all data providers|    
-starting July 2020|         initial analyses, first draft |all authors|
-October 2020|        all lead-author VideoConf.  Meeting
-XXX 202x|             RECCAPv2 meeting |all authors|
-Spring 2021|        Submission of papers |all authors|
+| Due date            | Task | People | Status |
+|--------|
+| June 2019           | finalize scoping and author document    | NG, JH, MI  | OK |
+| June/July 2019      | invite core chapter team leaders        |NG, JH, MI   | OK |
+| October/November    | data repositories identified            |NG           | OK |
+| Feb 2020            | Ad hoc meeting at Ocean Sciences        |all authors  | OK |
+| April 2020          | finalize protocols, data policies       |NG, JH, MI   | OK |
+| May 2020            | global/regional teams assembled, draft outlines |all LA| preliminary authorship table |
+| 30 September  2020  | data submission                         |all data providers|    
+| starting July 2020  | initial analyses, first draft           |all authors  |
+| October 2020        | VideoConf.  Meeting                     |all LA       |
+| XXX 202x            | RECCAPv2 meeting                        |all authors  |
+| Spring 2021         | Submission of papers                    |all authors  |
