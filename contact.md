@@ -8,14 +8,14 @@
 Do you have a question about RECCAP-ocean and want to get in touch? Feel free to email us.
 
 ### Organization
-[Judith Hauck](mailto:Judith.Hauck@awi.de)
+[Judith Hauck](mailto:Judith.Hauck@awi.de)  
 [Nicolas Gruber](mailto:nicolas.gruber@env.ethz.ch)
 
 ### Model data repository
 [Jim Orr](mailto:james.orr@lsce.ipsl.fr)
 
 ### Technical administration
-[Luke Gregor](mailto:luke.gregor@usys.ethz.ch)
+[Luke Gregor](mailto:luke.gregor@usys.ethz.ch)  
 [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch)
 
 # General enquiries

@@ -2,20 +2,18 @@
 ---
 <img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 
-Organization
+# Organization
 
 ## Associated projects
 
+RECCAP2-ocean is largely a bottom up driven activity, with some funding from the [Horizon2020](https://ec.europa.eu/programmes/horizon2020/en) projects  
+- [4C](https://4c-carbon.eu/)  
+- [COMFORT](https://comfort.w.uib.no/)
 
 ## Leadership
 The international collaboration is co-led by  
 - [Judith Hauck](https://www.awi.de/ueber-uns/organisation/mitarbeiter/judith-hauck)  
 - [Nicolas Gruber](https://usys.ethz.ch/en/people/profile.nicolas-gruber.html)
-
-
-RECCAP2-ocean is largely a bottom up driven activity, with some funding from the [Horizon2020](https://ec.europa.eu/programmes/horizon2020/en) projects  
-- [4C](https://4c-carbon.eu/)  
-- [COMFORT](https://comfort.w.uib.no/)
 
 ## Timeline
 (last updated, April 2020)

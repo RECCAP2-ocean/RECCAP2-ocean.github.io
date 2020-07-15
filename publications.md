@@ -20,17 +20,17 @@ Lead authors: Goulven Laruelle, Pierre Regnier, Minhai Dai
 
 ## Addressing regional changes
 
-**Southern Ocean**
+**Southern Ocean**  
 Lead authors: Luke Gregor, Judith Hauck
 
-**Pacific Ocean**
+**Pacific Ocean**  
 Lead authors: Masao Ishii, Brendan Carter
 
-**Arctic**
+**Arctic**  
 Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
-**Atlantic**
+**Atlantic**  
 Lead authors: Fiz Perez, Marion Gehlen
 
-Indian
+**Indian**  
 Lead authors: Vedula Sarma, Zouhair Lachkar
