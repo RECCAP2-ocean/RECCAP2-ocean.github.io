@@ -16,7 +16,7 @@ Lead authors: Keith Rodgers, Jörg Schwinger
 Lead authors: Scott Doney, Stephanie Henson
 
 **The global coastal ocean**   
-Lead authors: Goulven Laruelle, Pierre Regnier, Minhai Dai    
+Lead authors: Goulven Laruelle, Pierre Regnier, Minhai Dai, Laure Resplandy    
 
 ## Addressing regional changes
 
