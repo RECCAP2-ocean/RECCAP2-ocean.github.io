@@ -14,6 +14,9 @@ Do you have a question about RECCAP-ocean and want to get in touch? Feel free to
 ### Model data repository
 [Jim Orr](mailto:james.orr@lsce.ipsl.fr)
 
+### Observation data repository  
+[Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch)
+
 ### Technical administration
 [Luke Gregor](mailto:luke.gregor@usys.ethz.ch)  
 [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch)

@@ -6,4 +6,4 @@
 
 Scripts used to compile data sets, are publically available at:
 
-- Link(s) to script files
+- Link(s) will be provided soon
