@@ -10,8 +10,16 @@
 This website serves mainly for the distribution of information among partners.
 You will find:
 
+[About](about.md)
+[News](/blog)
+
 Ressources  
 - [Protocols](protocols.md)  
+- [Scripts](scripts.md)  
+- [Data](data.md)  
+- [Others](other_resources.md)  
 
-... to be finalized later, Jens has to pick up Jonne from Krippe.
+[Publications](publications.md)  
+[Organization](organization.md)  
+[Contact](contact.md)
 
