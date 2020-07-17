@@ -8,7 +8,8 @@
 
 For the assessment and intercomparison of several data products, globally available results were split into ocean regions. A shape file with region boundaries will be made available in this [Github repo](https://github.com/RECCAP2-ocean/shared-resources/tree/master/regions){:target="_blank"}.
 
-![RECCAP2-ocean_regions](https://github.com/RECCAP2-ocean/shared-resources/blob/master/regions/img/basin_all.png)
+![RECCAP2-ocean_regions](img/ocean_regions/basin_all_wBiomes.png)
+![RECCAP2-ocean_coast](img/ocean_regions/coastal_regions.png)
 
 ## Data policy
 
