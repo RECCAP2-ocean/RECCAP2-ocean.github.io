@@ -7,7 +7,7 @@
 
 *REgional Carbon Cycle Assessment and Processes 2 
 
-##Website content
+## Website content
 
 This website serves mainly for the distribution of information among partners.
 You will find:
@@ -15,7 +15,7 @@ You will find:
 [About](about.md) - Some background info about RECCAP2-ocean  
 [News](/blog) - News on a irregular basis. Feel free to contact us, if you want to share information here.  
 
-Under ressources find information around:   
+Under resources find information around:
 - [Protocols](protocols.md)  
 - [Scripts](scripts.md)  
 - [Data](data.md)  
