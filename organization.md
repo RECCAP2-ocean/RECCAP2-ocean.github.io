@@ -1,6 +1,5 @@
 ---
 ---
-<img src="/img/CCI_reccap2_positive.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
 
 # Organization
 
