@@ -2,10 +2,12 @@
 
 ---
 
-<img src="/img/ocean_regions/basin_all_wBiomes_no_scale.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
-
 # Welcome to the ocean chapter of RECCAP2*!
 *REgional Carbon Cycle Assessment and Processes 2 
+
+<img src="/img/ocean_regions/basin_all_wBiomes_no_scale.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
+
+The basin map - a good example for ongoing discussions within RECCAP2-ocean!
 
 ## Website content
 
