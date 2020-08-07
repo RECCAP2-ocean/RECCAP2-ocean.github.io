@@ -111,6 +111,10 @@ img {
   letter-spacing: 1px;
 }
 
+.navbar-brand {
+  min-width: 100px;
+}
+
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 730;
