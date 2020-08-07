@@ -4,7 +4,7 @@ url: "http://RECCAP2-ocean.github.io"
 baseurl: ""
 
 # This image will be in the top left corner of the navbar
-logo: img/CCI_reccap2_positive.png
+logo: img/CCI_reccap2_positive_white.png
 
 title: RECCAP2-ocean
 description: REgional Carbon Cycle Assessment and Processes - ocean 
