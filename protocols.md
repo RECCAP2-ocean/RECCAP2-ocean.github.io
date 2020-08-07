@@ -1,7 +1,6 @@
 ---
+title: Protocols
 ---
-
-# Protocols
 
 Model and data product development and intercomparison within RECCAP2-ocean are facilitated by using shared protocols.
 

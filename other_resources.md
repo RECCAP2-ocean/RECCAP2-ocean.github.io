@@ -1,7 +1,6 @@
 ---
+title: Additional resources
 ---
-
-# Additional resources
 
 ## Definition of ocean regions
 

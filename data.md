@@ -1,7 +1,6 @@
 ---
+title: Data products
 ---
-
-# Data products
 
 ## Model data
 
