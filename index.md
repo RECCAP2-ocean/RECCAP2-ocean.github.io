@@ -1,9 +1,13 @@
 ---
-title: Welcome to the ocean chapter of RECCAP2*!
-subtitle: *REgional Carbon Cycle Assessment and Processes 2 
+
 ---
 
-# Website content
+<img src="/img/ocean_regions/basin_all_wBiomes_no_scale.png" title="RECCAP2-ocean logo" alt="RECCAP2-ocean logo" />
+
+# Welcome to the ocean chapter of RECCAP2*!
+*REgional Carbon Cycle Assessment and Processes 2 
+
+## Website content
 
 This website serves mainly for the distribution of information among partners.
 You will find:
