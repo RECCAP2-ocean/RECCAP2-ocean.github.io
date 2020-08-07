@@ -3,7 +3,6 @@ title: Welcome to the ocean chapter of RECCAP2*!
 subtitle: *REgional Carbon Cycle Assessment and Processes 2 
 ---
 
-
 # Website content
 
 This website serves mainly for the distribution of information among partners.
