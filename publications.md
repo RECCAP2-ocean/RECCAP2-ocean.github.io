@@ -29,7 +29,7 @@ Lead authors: Masao Ishii, Brendan Carter
 Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
 **Atlantic**  
-Lead authors: Fiz Perez, Marion Gehlen
+Lead authors: Fiz Perez, Marion Gehlen, Are Olsen, Jerry Tjiputra
 
 **Indian**  
 Lead authors: Vedula Sarma, Zouhair Lachkar
