@@ -17,7 +17,7 @@ navbar-links:
     - Protocols: "protocols"
     - Scripts: "scripts"
     - Data: "data"
-    - Regions: "other_resources"
+    - Regions: "regions"
   Publications: "publications"
   Organization: "organization"
   Contact: "contact"

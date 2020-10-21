@@ -20,7 +20,7 @@ Under resources find information around:
 - [Protocols](protocols.md)  
 - [Scripts](scripts.md)  
 - [Data](data.md)  
-- [Others](other_resources.md) - Regions & Data policy  
+- [Others](regions.md) - Regions & Data policy  
 
 [Publications](publications.md) - a list of intended publications  
 [Organization](organization.md) - Leadership and timeline   
