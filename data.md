@@ -2,18 +2,15 @@
 title: Data products
 ---
 
-## Model data
+## Data repository
 
-Modeled data products compiled within the framework of RECCAP2-ocean, will be made available at
+Modeled and observation-based data products compiled within the framework of RECCAP2-ocean, will be made available at
 
-- Link(s) will be provided soon
+- [MPI BGC Jena - Data Exchange Portal](https://www.bgc-jena.mpg.de/geodb/projects/Home.php){:target="_blank"}. 
 
-## Observational data products
+Instructions how to up and download data products will soon be made available here.
 
-Data products based on observational data, will be made available through the
-- [ETH IAC data portal](https://data.iac.ethz.ch/reccapv2){:target="_blank"}.  
-
-Please request access from
+For questions concerning data submission and access, please contact
 [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="_blank"}.
 
 ## Data Policy
