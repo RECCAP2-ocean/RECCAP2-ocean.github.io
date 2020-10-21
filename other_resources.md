@@ -14,7 +14,7 @@ Below is a map of the proposed regions for RECCAP v2. Note that the coastal boun
 
 The map is annotated to show how boundaries were decided. WOA09 uses the [World Ocean Atlas 09 basins map](https://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NODC/.WOA09/.Masks/.basin/data.nc). FM14 indicates Fay and McKinley (2014) boundaries were used. 
 
-![bas_all](img/basin_all.png)
+![bas_all](img/ocean_regions/regions_subregions.png)
 
 Comment on the boundary definition from Luke Gregor:  
 
