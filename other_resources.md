@@ -1,5 +1,5 @@
 ---
-title: Additional resources
+title: Regional masks
 ---
 
 ## RECCAP2-ocean regions 
