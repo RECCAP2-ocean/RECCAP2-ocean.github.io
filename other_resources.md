@@ -3,18 +3,19 @@ title: Additional resources
 ---
 
 ## RECCAP2-ocean regions 
-A netCDF file with regional masks is available at https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/reccap2ocean_regions.nc
+A netCDF file with regional masks is available at [https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/reccap2ocean_regions.nc](https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/reccap2ocean_regions.nc)
 
 We have used the biomes of Fay and McKinley to divide the basins into subregions. 
 The areas where FM14 does not have data have been ingested by the neighboring biome or a new distinct biome has been added, as noted in the figure below. 
-![](img/regions_subregions.png)
+
+![bas_all](img/ocean_regions/regions_subregions.png)
 
 ## How the global map was created
 Below is a map of the proposed regions for RECCAP v2. Note that the coastal boundaries have not been added to this map. 
 
 The map is annotated to show how boundaries were decided. WOA09 uses the [World Ocean Atlas 09 basins map](https://iridl.ldeo.columbia.edu/SOURCES/.NOAA/.NODC/.WOA09/.Masks/.basin/data.nc). FM14 indicates Fay and McKinley (2014) boundaries were used. 
 
-![bas_all](img/ocean_regions/regions_subregions.png)
+
 
 Comment on the boundary definition from Luke Gregor:  
 
