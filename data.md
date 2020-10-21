@@ -15,3 +15,6 @@ Data products based on observational data, will be made available through the
 
 Please request access from
 [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="_blank"}.
+
+## Data Policy
+RECCAP2-ocean authors have agreed upon shared principles with respect to data policy, which can be found [here](documents/DATA_POLICY_RECCAP2-ocean.pdf){:target="_blank"}.
