@@ -19,9 +19,9 @@ You will find:
 Under resources find information around:
 - [Protocols](protocols.md)  
 - [Scripts](scripts.md)  
-- [Data](data.md)  
-- [Others](regions.md) - Regions & Data policy  
+- [Data](data.md) - Access and Policies  
+- [Regions](regions.md)  
 
-[Publications](publications.md) - a list of intended publications  
+[Publications](publications.md) - a list of intended publications and chapter teams  
 [Organization](organization.md) - Leadership and timeline   
 [Contact](contact.md) - How to get in touch  
