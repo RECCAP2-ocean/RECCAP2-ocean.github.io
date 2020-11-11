@@ -4,18 +4,18 @@ title: Organization
 
 ## Associated projects
 
-RECCAP2-ocean is largely a bottom up driven activity, with some funding from the [Horizon2020](https://ec.europa.eu/programmes/horizon2020/en) projects  
-- [4C](https://4c-carbon.eu/)  
-- [COMFORT](https://comfort.w.uib.no/)
+RECCAP2-ocean is largely a bottom up driven activity, with some funding from the [Horizon2020](https://ec.europa.eu/programmes/horizon2020/en){:target="_blank"} projects  
+- [4C](https://4c-carbon.eu/){:target="_blank"}  
+- [COMFORT](https://comfort.w.uib.no/){:target="_blank"}
 
 ## Leadership
 The international collaboration is co-led by  
-- [Judith Hauck](https://www.awi.de/ueber-uns/organisation/mitarbeiter/judith-hauck)  
-- [Nicolas Gruber](https://usys.ethz.ch/en/people/profile.nicolas-gruber.html)
+- [Judith Hauck](https://www.awi.de/ueber-uns/organisation/mitarbeiter/judith-hauck){:target="_blank"}  
+- [Nicolas Gruber](https://usys.ethz.ch/en/people/profile.nicolas-gruber.html){:target="_blank"}
 
 ## Coordinatiom
 In coordinating RECCAP2-ocean, the project leaders are supported by  
-- [Jens Daniel Müller](https://usys.ethz.ch/en/people/profile.Mjc2ODA3.TGlzdC82MzcsMzIwMTk3MjIy.html)  
+- [Jens Daniel Müller](https://usys.ethz.ch/en/people/profile.Mjc2ODA3.TGlzdC82MzcsMzIwMTk3MjIy.html){:target="_blank"}  
 
 ## Timeline
 (last updated, Nov 2020)
