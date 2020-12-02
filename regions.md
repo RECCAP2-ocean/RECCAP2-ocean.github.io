@@ -10,6 +10,11 @@ The areas where FM14 does not have data have been ingested by the neighboring bi
 
 ![bas_all](img/ocean_regions/regions_subregions.png)
 
+## Coastal regions
+The coastal regions will be the MARCATS product by [Laruelle et al. 2013](https://hess.copernicus.org/articles/17/2029/2013/). These coastal regions are defined by catchment areas and marginal shelf extent. 
+
+![figure](img/ocean_regions/MARCATS.png)
+
 ## How the global map was created
 Below is a map of the proposed regions for RECCAP v2. Note that the coastal boundaries have not been added to this map. 
 
