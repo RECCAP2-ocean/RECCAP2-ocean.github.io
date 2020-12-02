@@ -9,7 +9,7 @@ RECCAPv2 aims to publish its finding in a series of papers. The following are pl
 Lead authors: Tim DeVries, Rik Wanninkhof  
   
 **The seasonal cycle in the global ocean: a window into the future**  
-Lead authors: Keith Rodgers, Jörg Schwinger  
+Lead authors: Keith Rodgers, Jörg Schwinger, Andrea Fassbender, Peter Landschützer 
   
 **Biological carbon pump processes and the ocean carbon cycle**  
 Lead authors: Scott Doney, Stephanie Henson
