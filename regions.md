@@ -3,7 +3,7 @@ title: Regional masks
 ---
 
 ## RECCAP2-ocean regions 
-A netCDF file with regional masks is available at [https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/RECCAP2_region_masks_all.nc](https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/RECCAP2_region_masks_all.nc). This file contains the `open_ocean` mask and the sub-regions for each basin: `atlantic, pacific, indian, arctic, southern`. Further, a `coastal_marcats` mask is included. 
+A netCDF file with regional masks is available at [https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/RECCAP2_region_masks_all.nc](https://github.com/RECCAP2-ocean/shared-resources/raw/master/regions/RECCAP2_region_masks_all.nc). This file contains the `open_ocean` mask and the sub-regions for each basin: `atlantic, pacific, indian, arctic, southern`. Further, a `coastal_marcats` mask is included. All land, or non-valid regions of the masks are set to zero. 
 
 We have used the biomes of Fay and McKinley to divide the basins into subregions. 
 The areas where FM14 does not have data have been ingested by the neighboring biome or a new distinct biome has been added, as noted in the figure below. 
