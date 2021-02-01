@@ -1,4 +1,4 @@
-![RECCAP2 logo](img/logo.png)
+![RECCAP2 logo](img/CCI_reccap2_positive.png)
 
 ## Welcome to the RECCAP2 ocean page
 
