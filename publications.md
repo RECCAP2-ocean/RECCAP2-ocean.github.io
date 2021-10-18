@@ -17,6 +17,9 @@ Lead authors: Scott Doney, Stephanie Henson
 **The global coastal ocean**   
 Lead authors: Goulven Laruelle, Pierre Regnier, Minhai Dai, Laure Resplandy    
 
+**Model evaluation and emergent constraints**   
+Lead authors: Nadine Goris, Jens Terhaar    
+
 ## Addressing regional changes
 
 **Southern Ocean**  
