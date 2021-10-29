@@ -2,16 +2,36 @@
 title: Data products
 ---
 
-## Data repository
+## Data access
 
-Modeled and observation-based data products compiled within the framework of RECCAP2-ocean, will be made available at
+RECCAP2-ocean data products are available at through an FTP server hosted at MPI BGC Jena. The cryptic link to this server was shared internally, or is available upon request from [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="\_blank"}.
 
-- [MPI BGC Jena - Data Exchange Portal](https://www.bgc-jena.mpg.de/geodb/projects/Home.php){:target="_blank"}. 
+Following two approaches to download files from the FTP server were previously tested:
 
-Instructions how to up and download data products will soon be made available here.
+Download via FileZilla
 
-For questions concerning data submission and access, please contact
-[Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="_blank"}.
+1.  Paste FTP link in field "Host"
+
+2.  Leave all other fields blank
+
+3.  Click "Quickconnect"
+
+[Download via terminal]{.ul}
+
+Use following command:
+
+`wget -bm -nH -nv --cut-dirs=5 -P path_to_download_folder -o path_to_download_folder/YYYYMMDD_download_log.txt --user=ftp --password="email_address" link_to_ftp`
+
+and replace
+
+`path_to_download_folder`: path to a folder in which to store the downloaded files
+
+`YYYYMMDD:` Date of download as label for log file
+
+`link_to_ftp:` Cryptic link to FTP server shared internally
+
+For questions concerning data submission and access, please contact [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="\_blank"}.
 
 ## Data Policy
-RECCAP2-ocean authors have agreed upon shared principles with respect to data policy, which can be found [here](documents/DATA_POLICY_RECCAP2-ocean.pdf){:target="_blank"}.
+
+RECCAP2-ocean authors have agreed upon shared principles with respect to data policy, which can be found [here](documents/DATA_POLICY_RECCAP2-ocean.pdf){:target="\_blank"}.
