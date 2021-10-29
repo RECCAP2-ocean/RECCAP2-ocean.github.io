@@ -4,11 +4,11 @@ title: Data products
 
 ## Data access
 
-RECCAP2-ocean data products are available at through an FTP server hosted at MPI BGC Jena. The cryptic link to this server was shared internally, or is available upon request from [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="\_blank"}.
+RECCAP2-ocean data products are available at through an FTP server hosted at MPI BGC Jena. The cryptic link to this server was shared internally and is also available upon request from [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="\_blank"}.
 
 Following two approaches to download files from the FTP server were previously tested:
 
-Download via FileZilla
+<u>Download via FileZilla</u>
 
 1.  Paste FTP link in field "Host"
 
@@ -16,21 +16,22 @@ Download via FileZilla
 
 3.  Click "Quickconnect"
 
-[Download via terminal]{.ul}
+<u>Download via terminal</u>
 
 Use following command:
 
 `wget -bm -nH -nv --cut-dirs=5 -P path_to_download_folder -o path_to_download_folder/YYYYMMDD_download_log.txt --user=ftp --password="email_address" link_to_ftp`
 
-and replace
+, in which you replace:
 
 `path_to_download_folder`: path to a folder in which to store the downloaded files
 
-`YYYYMMDD:` Date of download as label for log file
+`YYYYMMDD`: date of download as label for log file
 
-`link_to_ftp:` Cryptic link to FTP server shared internally
+`link_to_ftp`: cryptic link to FTP server shared internally
 
-For questions concerning data submission and access, please contact [Jens Daniel Müller](mailto:jensdaniel.mueller@usys.ethz.ch){:target="\_blank"}.
+
+
 
 ## Data Policy
 
