@@ -18,7 +18,7 @@ Data handling: Ji Hyun Kim (Matlab), Tim Devries (Matlab)
 
 Lead authors: Keith Rodgers, Jörg Schwinger, Andrea Fassbender, Peter Landschützer
 
-Data handling: (?)
+Data handling: Peter Landschützer (Matlab)
 
 **Biological carbon pump processes and the ocean carbon cycle**
 
@@ -44,28 +44,28 @@ Data handling: Jean Negrel (Octave)
 
 Lead authors: Luke Gregor, Judith Hauck
 
-Data handling: Luke Gregor (Python), Cara Nissen (Models-2D), Lavinia Patara (Models-3D)
+Data handling: Luke Gregor (Python), Cara Nissen (Python), Lavinia Patara (Python)
 
 **Pacific Ocean**
 
 Lead authors: Masao Ishii, Brendan Carter
 
-Data handling: Brendan Carter
+Data handling: Brendan Carter (Matlab)
 
 **Arctic**
 
 Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
-Data handling: Sayaka Yasunaka (Matlab), TBD (Python)
+Data handling: Sayaka Yasunaka (Matlab)
 
 **Atlantic**
 
 Lead authors: Fiz Perez, Marion Gehlen, Are Olsen, Jerry Tjiputra
 
-Data handling: Meike Becker, Marta Lopez-Mozos (3D), Antón Velo (3D)
+Data handling: Meike Becker (Matlab), Marta Lopez-Mozos (Matlab), Antón Velo (Matlab/Python)
 
 **Indian**
 
 Lead authors: Vedula Sarma, Zouhair Lachkar
 
-Data handling: TBD
+Data handling: Zouhair Lachkar
