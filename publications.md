@@ -52,19 +52,19 @@ Lead authors: Masao Ishii, Brendan Carter
 
 Data handling: Brendan Carter (Matlab)
 
-**Arctic**
+**Arctic Ocean**
 
 Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
 Data handling: Sayaka Yasunaka (Matlab)
 
-**Atlantic**
+**Atlantic Ocean**
 
 Lead authors: Fiz Perez, Marion Gehlen, Are Olsen, Jerry Tjiputra
 
 Data handling: Meike Becker (Matlab), Marta Lopez-Mozos (Matlab), Antón Velo (Matlab/Python)
 
-**Indian**
+**Indian Ocean**
 
 Lead authors: Vedula Sarma, Zouhair Lachkar
 
