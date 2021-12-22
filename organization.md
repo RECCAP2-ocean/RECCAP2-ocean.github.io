@@ -12,6 +12,7 @@ RECCAP2-ocean is largely a bottom up driven activity, with some funding from the
 The international collaboration is co-led by  
 - [Judith Hauck](https://www.awi.de/ueber-uns/organisation/mitarbeiter/judith-hauck){:target="_blank"}  
 - [Nicolas Gruber](https://usys.ethz.ch/en/people/profile.nicolas-gruber.html){:target="_blank"}
+- [Masao Ishii](https://www.mri-jma.go.jp/Member/researcher/aoishiimasaoish_en.html){:target="_blank"}
 
 ## Coordinatiom
 In coordinating RECCAP2-ocean, the project leaders are supported by  
@@ -32,5 +33,9 @@ In coordinating RECCAP2-ocean, the project leaders are supported by
 | starting July 2020 | initial analyses, first drafts |all authors | pending |
 | Oct 2020 | VideoConf. Meeting |all lead authors | OK |
 | Oct 2020 | RECCAP2 meeting | all authors  | OK |
+| Jan, 15 2021 | Submission of chapter outlines | chapter leads  | pending |
 | Jan 2021 | RECCAP2-ocean meeting | all authors  | in prep. |
-| Spring 2021 | Submission of papers  |all authors  | pending |
+| Mar 2021 | Submission of first chapter drafts | chapter leads  | pending |
+| Jul 2021 | Submission of advanced chapter drafts | chapter leads  | pending |
+| Oct 2021 | Submission of papers  |all authors  | pending |
+| Nov 2021 | Closing date AGU special issue  |  |  |
