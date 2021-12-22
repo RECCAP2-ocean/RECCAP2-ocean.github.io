@@ -34,7 +34,9 @@ Data handling: Allison Hogikyan (Python), Enhui Liao
 
 **Model evaluation and emergent constraints**
 
-Lead authors: Nadine Goris, Jens Terhaar Data handling: Jean Negrel
+Lead authors: Nadine Goris, Jens Terhaar
+
+Data handling: Jean Negrel (Octave)
 
 ## Addressing regional changes
 
@@ -42,7 +44,7 @@ Lead authors: Nadine Goris, Jens Terhaar Data handling: Jean Negrel
 
 Lead authors: Luke Gregor, Judith Hauck
 
-Data handling: Luke Gregor (Python, observations), Cara Nissen (Models-2D), Lavinia Patara (Models-3D)
+Data handling: Luke Gregor (Python), Cara Nissen (Models-2D), Lavinia Patara (Models-3D)
 
 **Pacific Ocean**
 
