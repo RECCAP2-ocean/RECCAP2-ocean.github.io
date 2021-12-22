@@ -19,7 +19,7 @@ In coordinating RECCAP2-ocean, the project leaders are supported by
 - [Jens Daniel Müller](https://usys.ethz.ch/en/people/profile.Mjc2ODA3.TGlzdC82MzcsMzIwMTk3MjIy.html){:target="_blank"}  
 
 ## Timeline
-(last updated, Nov 2020)
+(last updated, Dec 2021)
 
 | Due date | Task | People | Status |
 |--------|
