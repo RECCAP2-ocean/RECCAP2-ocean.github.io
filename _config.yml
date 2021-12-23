@@ -18,6 +18,7 @@ navbar-links:
     - Scripts: "scripts"
     - Data: "data"
     - Regions: "regions"
+    - River fluxes: "river"
   Publications: "publications"
   Organization: "organization"
   Contact: "contact"
