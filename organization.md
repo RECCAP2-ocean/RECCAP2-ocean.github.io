@@ -35,10 +35,12 @@ In coordinating RECCAP2-ocean, the project leaders are supported by
 | Dec 2020 | Virtual meeting | all authors  | OK |
 | Oct 2021 | Virtual meeting | chapter leads  | OK |
 | Nov 2021 | Finalize data quality check | QC team  | pending |
-| Jan, 15 2022 | Provide chapter outlines | chapter leads  | pending |
-| Jan 2022 | RECCAP2-ocean meeting | all authors  | in prep. |
+| Jan, 15 2022 | Provide chapter outlines | chapter leads  | OK |
+| Feb, 16 2022 | RECCAP2-ocean meeting | chapter leads  | OK |
+| Feb, 23 2022 | RECCAP2-ocean meeting | data analysts  | in prep. |
 | Mar 2022 | Provide intermediate chapter drafts | chapter leads  | pending |
-| April 2022 | RECCAP2-ocean meeting | all authors  | in prep. |
+| May, 18 2022 | RECCAP2-ocean meeting | all authors  | in prep. |
 | July 2022 | Provide advanced chapter drafts | chapter leads  | pending |
+| Sept, 22 2022 | RECCAP2-ocean meeting | chapter leads  | in prep. |
 | Oct 2022 | Submission of papers  |all authors  | pending |
 | Nov, 30 2022 | Closing date of AGU special issue  |  |  |
