@@ -18,6 +18,7 @@ You will find:
 
 Under resources find information around:
 - [Protocols](protocols.md)  
+- [Glossary](glossary.md)  
 - [Scripts](scripts.md)  
 - [Data](data.md) - Access and Policies  
 - [Regions](regions.md)  

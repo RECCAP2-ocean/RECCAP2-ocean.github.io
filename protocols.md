@@ -4,8 +4,6 @@ title: Protocols
 
 Model and data product development and intercomparison within RECCAP2-ocean are facilitated by using shared protocols.  
 
-**Please note that the protocols linked below are under development. Your contribution and critical remarks are highly welcome. Please get in touch!**
-
 ## Modeling products
 
 The latest clean version of our protocol for modeling approaches can be found [here](documents/MODELING_PROTOCOL_RECCAP2-ocean_v20210304.pdf){:target="_blank"}.
