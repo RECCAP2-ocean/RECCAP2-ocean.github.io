@@ -15,6 +15,7 @@ navbar-links:
   News: "blog"
   Resources:
     - Protocols: "protocols"
+    - Glossary: "glossary"
     - Scripts: "scripts"
     - Data: "data"
     - Regions: "regions"
