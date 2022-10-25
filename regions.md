@@ -3,12 +3,12 @@ title: Regional masks
 ---
 
 ## Open ocean regions 
-A netCDF file with regional masks is available at [https://github.com/RECCAP2-ocean/R2-shared-resources/blob/master/data/regions/RECCAP2_region_masks_all_v20220620.nc](https://github.com/RECCAP2-ocean/R2-shared-resources/blob/master/data/regions/RECCAP2_region_masks_all_v20220620.nc). This file contains the `open_ocean` mask and the sub-regions for each basin: `atlantic, pacific, indian, arctic, southern`. Further, a `coast` mask is included. All land, or non-valid regions of the masks are set to zero. An additional mask, `seamask`, is a mask for all ocean pixels (based on SST).
+A netCDF file with regional masks is available at [https://github.com/RECCAP2-ocean/R2-shared-resources/blob/master/data/regions/RECCAP2_region_masks_all_v20221025.nc](https://github.com/RECCAP2-ocean/R2-shared-resources/blob/master/data/regions/RECCAP2_region_masks_all_v20221025.nc). This file contains the `open_ocean` mask and the sub-regions for each basin: `atlantic, pacific, indian, arctic, southern`. Further, a `coast` mask is included. All land, or non-valid regions of the masks are set to zero. An additional mask, `seamask`, is a mask for all ocean pixels (based on SST).
 
 We have used the biomes of Fay and McKinley to divide the basins into subregions. 
-The areas where FM14 does not have data have been ingested by the neighboring biome or a new distinct biome has been added, as noted in the figure below. One exception is in the Indian, where we have created new biomes based on knowledge from the Indian Ocean chapter leads. 
+The areas where FM14 does not have data have been ingested by the neighboring biome or a new distinct biome has been added, as noted in the figure below. Two exceptions are in the Indian and Arctic. In both regions, we have created new biomes based on input from the respective chapter leads. 
 
-![https://raw.githubusercontent.com/RECCAP2-ocean/RECCAP2-ocean.github.io/master/img/ocean_regions/RECCAP2_region_masks_all_v20220620.png](https://raw.githubusercontent.com/RECCAP2-ocean/RECCAP2-ocean.github.io/master/img/ocean_regions/RECCAP2_region_masks_all_v20220620.png)
+![https://raw.githubusercontent.com/RECCAP2-ocean/R2-shared-resources/master/figures/regions/RECCAP2_region_masks_all_v20221025.png](https://raw.githubusercontent.com/RECCAP2-ocean/R2-shared-resources/master/figures/regions/RECCAP2_region_masks_all_v20221025.png)
 
 ## Coastal regions
 The coastal regions will be the updated MARCATS product used in [Laruelle et al. 2017](https://doi.org/10.5194/bg-14-4545-2017). The extent is defined by the following:
