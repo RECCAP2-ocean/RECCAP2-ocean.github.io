@@ -6,7 +6,7 @@ The work in RECCAPv2-ocean is organized into chapters, each aiming at the public
 
 ## Global and regional chapters
 
-**Mean and variability of carbon air-sea fluxes, transport and storage**
+**Global Ocean**
 
 Lead authors: Tim DeVries, Rik Wanninkhof
 
@@ -16,7 +16,7 @@ Status: in review
 
 Lead authors: Judith Hauck, Luke Gregor
 
-Status: Preprint available at https://doi.org/10.22541/essoar.168500260.02497238/v1
+Status: [Preprint available](https://doi.org/10.22541/essoar.168500260.02497238/v1)
 
 **Pacific Ocean**
 
@@ -34,13 +34,13 @@ Status: in review
 
 Lead authors: Vedula Sarma, Zouhair Lachkar
 
-Status: Accepted publication available at https://doi.org/10.1029/2023GB007694
+Status: [Publication available](https://doi.org/10.1029/2023GB007694)
 
 **Arctic Ocean**
 
 Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
-Status: Preprint available at https://doi.org/10.22541/essoar.168476524.42265823/v1
+Status: [Preprint available](https://doi.org/10.22541/essoar.168476524.42265823/v1)
 
 
 
@@ -50,13 +50,13 @@ Status: Preprint available at https://doi.org/10.22541/essoar.168476524.42265823
 
 Lead authors: Nadine Goris, Jens Terhaar
 
-Status: Preprint available at https://doi.org/10.22541/essoar.168394734.41886821/v1
+Status: [Preprint available](https://doi.org/10.22541/essoar.168394734.41886821/v1)
 
 **The seasonal cycle in the global ocean: a window into the future**
 
 Lead authors: Keith Rodgers, Jörg Schwinger, Andrea Fassbender, Peter Landschützer
 
-Status: Preprint available at https://doi.org/10.22541/essoar.168167394.47800179/v1
+Status: [Preprint available](https://doi.org/10.22541/essoar.168167394.47800179/v1)
 
 **Biological carbon pump processes and the ocean carbon cycle**
 
@@ -68,5 +68,5 @@ Status: in preparation
 
 Lead authors: Goulven Laruelle, Pierre Regnier, Minhai Dai, Laure Resplandy
 
-Status: Preprint available at https://doi.org/10.22541/essoar.168182303.39621839/v1
+Status: [Preprint available](https://doi.org/10.22541/essoar.168182303.39621839/v1)
 
