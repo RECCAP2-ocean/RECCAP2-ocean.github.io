@@ -16,7 +16,7 @@ Status: in review
 
 Lead authors: Judith Hauck, Luke Gregor
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168500260.02497238/v1)
+Status: [Preprint available](https://doi.org/10.22541/essoar.168500260.02497238/v1){:target="_blank"}
 
 **Pacific Ocean**
 
@@ -34,39 +34,45 @@ Status: in review
 
 Lead authors: Vedula Sarma, Zouhair Lachkar
 
-Status: [Publication available](https://doi.org/10.1029/2023GB007694)
+Status: [Publication available](https://doi.org/10.1029/2023GB007694){:target="_blank"}
 
 **Arctic Ocean**
 
 Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168476524.42265823/v1)
+Status: [Preprint available](https://doi.org/10.22541/essoar.168476524.42265823/v1){:target="_blank"}
 
 
 
 ## Topical chapters
 
-**Model evaluation and emergent constraints**
+**Model evaluation**
 
 Lead authors: Nadine Goris, Jens Terhaar
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168394734.41886821/v1)
+Status: [Preprint available](https://doi.org/10.22541/essoar.168394734.41886821/v1){:target="_blank"}
 
-**The seasonal cycle in the global ocean: a window into the future**
+**Seasonal cycle**
 
 Lead authors: Keith Rodgers, Jörg Schwinger, Andrea Fassbender, Peter Landschützer
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168167394.47800179/v1)
+Status: [Preprint available](https://doi.org/10.22541/essoar.168167394.47800179/v1){:target="_blank"}
 
-**Biological carbon pump processes and the ocean carbon cycle**
+**Biological carbon pump**
 
 Lead authors: Scott Doney, Stephanie Henson
 
 Status: in preparation
 
-**The global coastal ocean**
+**The global coastal ocean  - Synthesis**
 
-Lead authors: Goulven Laruelle, Pierre Regnier, Minhai Dai, Laure Resplandy
+Lead authors: Laure Resplandy, Pierre Regnier, Allison Hogikyan
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168182303.39621839/v1)
+Status: [Preprint available](https://doi.org/10.22541/essoar.168182303.39621839/v1){:target="_blank"}
+
+**The global coastal ocean  - Biomes**
+
+Lead authors: Laure Resplandy, Pierre Regnier, Allison Hogikyan
+
+Status: in preparation
 
