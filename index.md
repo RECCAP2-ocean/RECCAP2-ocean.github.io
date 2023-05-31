@@ -14,7 +14,6 @@ This website serves mainly for the distribution of information among partners.
 You will find:
 
 [About](about.md) - Some background info about RECCAP2-ocean  
-[News](/blog) - News on a irregular basis. Feel free to contact us, if you want to share information here.  
 
 Under resources find information around:
 - [Protocols](protocols.md)  
