@@ -40,7 +40,7 @@ Status: [Publication available](https://doi.org/10.1029/2023GB007694){:target="_
 
 **An Assessment of CO2 Uptake in the Arctic Ocean From 1985 to 2018**
 
-Lead authors: Sayaka Yasunaka
+Lead authors: Sayaka Yasunaka, Manfredi Manizza
 
 Status: [Publication available](https://doi.org/10.1029/2023GB007806){:target="_blank"}
 
