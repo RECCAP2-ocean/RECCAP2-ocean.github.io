@@ -70,7 +70,7 @@ Status: in preparation
 
 Lead authors: Laure Resplandy, Pierre Regnier, Allison Hogikyan
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168182303.39621839/v1){:target="_blank"}
+Status: [Publication available](https://doi.org/10.1029/2023GB007803){:target="_blank"}
 
 **Case studies of CO2 fluxes in the Coastal Ocean**
 
