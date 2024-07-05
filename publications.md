@@ -30,7 +30,7 @@ Status: in preparation
 
 Lead authors: Fiz Pérez, Marion Gehlen, Are Olsen, Jerry Tjiputra
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.170256825.55098483/v1){:target="_blank"}
+Status: [Publication available](https://doi.org/10.1029/2023GB007862){:target="_blank"}
 
 **Air-Sea Fluxes of CO2 in the Indian Ocean Between 1985 and 2018: A Synthesis Based on Observation-Based Surface CO2, Hindcast and Atmospheric Inversion Models**
 
@@ -50,9 +50,9 @@ Status: [Publication available](https://doi.org/10.1029/2023GB007806){:target="_
 
 **Assessment of Global Ocean Biogeochemistry Models for Ocean Carbon Sink Estimates in RECCAP2 and Recommendations for Future Studies**
 
-Lead authors: Nadine Goris, Jens Terhaar
+Lead authors: Jens Terhaar, Nadine Goris
 
-Status: [Preprint available](https://doi.org/10.22541/essoar.168394734.41886821/v1){:target="_blank"}
+Status: [Publication available](https://doi.org/10.1029/2023ms003840){:target="_blank"}
 
 **Seasonal Variability of the Surface Ocean Carbon Cycle: A Synthesis**
 
@@ -64,7 +64,7 @@ Status: [Publication available](https://doi.org/10.1029/2023GB007798){:target="_
 
 Lead authors: Scott Doney, Stephanie Henson
 
-Status: in preparation
+Status: [Publication available](https://doi.org/10.1029/2024GB008156){:target="_blank"}
 
 **A Synthesis of Global Coastal Ocean Greenhouse Gas Fluxes**
 
