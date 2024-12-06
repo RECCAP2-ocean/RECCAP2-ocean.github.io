@@ -24,7 +24,7 @@ Status: [Publication available](https://doi.org/10.1029/2023GB007848){:target="_
 
 Lead authors: Masao Ishii, Brendan Carter
 
-Status: in preparation
+Status: [Preprint available](https://doi.org/10.22541/essoar.173117017.78015455/v1){:target="_blank"}
 
 **An assessment of CO2 storage and sea-air fluxes for the Atlantic Ocean and Mediterranean Sea between 1985 and 2018**
 
